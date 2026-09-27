@@ -1,4 +1,4 @@
-//Real-Time Application 5: Digital Payment Gateway 
+//Real-Time Application 2: Digital Payment Gateway 
 //Problem Scenario :  A payment gateway supports credit-card, UPI, net-banking, and wallet payments. All payment modes implement a common 
 //processing interface. 
 

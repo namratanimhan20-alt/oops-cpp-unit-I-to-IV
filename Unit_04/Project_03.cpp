@@ -1,4 +1,4 @@
-//Real-Time Application 12 : Binary File for Fixed-Size Records. 
+//Real-Time Application 3 : Binary File for Fixed-Size Records. 
 //Problem Scenario : A multimedia or embedded application stores fixed-size metadata records in a binary file for compact storage and faster sequential retrieval.
 
 #include <cstring>

@@ -1,4 +1,4 @@
-//Real-Time Application 11: Server Log Analyzer 
+//Real-Time Application 2 : Server Log Analyzer 
 //Problem Scenario : A DevOps monitoring tool reads a server log and lists error and critical messages. This helps developers find system failures quickly. 
 
 #include <fstream>
